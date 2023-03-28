@@ -6,5 +6,5 @@ The Bootcamp consisted of three phases, so I decided to create three packages (`
 Each package contains completed homework assignments with described specifications in `README` files.
 These three packages also contain tasks in the increasing complexity of the Bootcamp learning stage.
 
-[Round 1](src/main/java/round_1/README.md) <br>
-[Round 2](src/main/java/round_2/README.md) <br>
+[Round 1](src/main/java/round_1) <br>
+[Round 2](src/main/java/round_2) <br>
