@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * For correct work the following program put one of the next arguments as
  * program arguments: <br>
- * 1. `Bottle Volume Material` <br>
+ * 1. `Bottle Volume Material` OR <br>
  * 2. `Material Volume Bottle`
  */
 public class Handler {
